@@ -1,9 +1,9 @@
 # Telegram Бот-магазин BIOTULA
 
-https://img.shields.io/badge/Python-3.9%2B-blue?logo=python 
-https://img.shields.io/badge/Aiogram-2.x-green?logo=telegram 
-https://img.shields.io/badge/SQLite-3%2B-lightgrey?logo=sqlite 
-https://img.shields.io/badge/Telegram-Bot%20API-blue?logo=telegram
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
+[![Aiogram](https://img.shields.io/badge/Aiogram-2.x-green?logo=telegram)](https://docs.aiogram.dev/)
+[![SQLite](https://img.shields.io/badge/SQLite-3%2B-lightgrey?logo=sqlite)](https://sqlite.org)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot%20API-blue?logo=telegram)](https://core.telegram.org/bots/api)
 
 <p align="center">
   <img src="1.png" width="300" alt="Каталог натуральных продуктов">
